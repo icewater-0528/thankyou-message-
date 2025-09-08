@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>BOOSTING</title>
+    <title>THANK YOU MESSAGE</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">  
    <style>
     body {
@@ -207,7 +207,7 @@
                 
            
         <p> &copy; 2025 All rights reserved.</p>
-    </footer>
+
 </div>
 </body>
 
